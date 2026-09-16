@@ -1,0 +1,82 @@
+[
+    {
+        "name": "oai-did",
+        "value": "5b95e89a-e252-4288-a564-c822ce7baa9d",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-hlib",
+        "value": "true",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-sc",
+        "value": "0gAAAAABnkHh7ELoP2TBbYiil5KCygn9TcIBJtDrMX6nGi1og-oZgoiHaqCpZ_zbtx8D9ZFYmRQrnPiNOzCfdahfBw8rcmf3SM63e07fFTwdChSvC7Rb7p_2sGmq0BS_2KNhL4Fy1NKK1NgRdO-xpTo6Ns-lZ6HkQ0IYQg0o4JnIU5XFG96N801HvaLGhUB0ulqRUexRqryXMEZDoON3P863BB2R4M1HbK1GKTexxF4tfr0suIk_oB5E",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-thread-sidebar",
+        "value": "\"{\"isOpen\":false}\"",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-nav-state",
+        "value": "1",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-last-model",
+        "value": "auto",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "oai-sc",
+        "value": "0gAAAAABoB0Lzr3Yd6yU0KZs7aVbk2yd6dRozkpERV3WOh7d_XFBvHNSXRUrerOz6UrMIujX6h7uPnLN4KyZJ90QYYZqIJQ3pUmo7HwmnIIEJ5isObo2iDbMGQiYR6b-CQ_RRha_-Dyugs0vAO5HTb1nVByp7n6iuGShZt-aF-Hnwwko2bWCCcraRxBljkY-FioY020X4wRy4ZSqH8uj-VHmyU_RB8lio6y54f0NohugAwDQ9O9fjS9M",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_dd_s",
+        "value": "rum=0&expire=1745307265152&logs=1&id=bf5bd588-c147-436a-8052-c8b62af4207f&created=1745306069213",
+        "domain": ".chatgpt.com",
+        "path": "/",
+        "expires": 1745307265.152,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    }
+]
